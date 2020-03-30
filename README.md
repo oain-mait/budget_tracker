@@ -1,42 +1,43 @@
-# budget_tracker
-Budget Tracker
+# Budget Tracker
 A personal expense tracker for the entire family that shows expenses broken down by type.
 
-Data Model
-1. Budget user(child)
-    Monthly budget
-    current expense(item_name, amount,tag,classification,)
-    Family_identifier(group_name, id)
-    Friend list
+## Data Model
+### BudgetUser(child of django.contrib.auth.models.AbstractUser)
+   
+- Monthly budget
+- current expense(item_name, amount,tag,classification,)
+- Family_identifier(group_name, id)
+- Friend list
 
-Site Functional Area
-    User management
-        Register New Users
-        Log In / Log Out
-        Update Existing Users
-        Privacy Settings
+## Site Functional Area
     
-   App setting
-        Change View
-        Index to management settings
-   Family management
-        Search for members
-        Add/Remove to family group
+### User management
+  -      Register New Users
+   -     Log In / Log Out
+    -    Update Existing Users
+     -   Privacy Settings
     
-   Friend management
-        Search for members
-        Add/Remove to friend list
-        Challenge management/assignment 
+###   App setting
+   -     Change View
+    -    Index to management settings
+###   Family management
+   -     Search for members
+    -    Add/Remove to family group
     
-   Expense Log
-        Log expenses
-        Assign tag & Classification
+###   Friend management
+   -     Search for members
+    -    Add/Remove to friend list
+     -   Challenge management/assignment 
+    
+###   Expense Log
+    -    Log expenses
+     -   Assign tag & Classification
                
-   Current Status//Monthly Status
-        List expenses
-        Change view (Daily/Weekly/Monthly)
-        Assign duties to members
-        View Pie Chart
+###   Current Status//Monthly Status
+ -       List expenses
+  -      Change view (Daily/Weekly/Monthly)
+   -     Assign duties to members
+    -    View Pie Chart
         
        
         
