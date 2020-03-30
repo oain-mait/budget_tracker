@@ -4,10 +4,10 @@ A personal expense tracker for the entire family that shows expenses broken down
 ## Data Model
 ### BudgetUser(child of django.contrib.auth.models.AbstractUser)
    
-- Monthly budget
-- current expense(item_name, amount,tag,classification,)
-- Family_identifier(group_name, id)
-- Friend list
+- monthly_budget : float (optional)
+- current_expenses : float (property)
+- Family_identifier(group_name, id) (optional)
+- Friend list: list (optional)
 
 ## Site Functional Area
     
