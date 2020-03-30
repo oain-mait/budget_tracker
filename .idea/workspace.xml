@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8b7f83-0c54-4ac1-9e9b-d7b1011209a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration name="budget_tracker" type="Python.DjangoServer" factoryName="Django server">
@@ -67,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585520363118</updated>
       <workItem from="1585520397894" duration="696000" />
+      <workItem from="1585531802120" duration="2703000" />
     </task>
     <servers />
   </component>
@@ -74,17 +74,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="248" y="60" key="SettingsEditor" timestamp="1585520468209">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="220" y="0" key="SettingsEditor" timestamp="1585532327793">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="220" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585532327793" />
     <state x="248" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1585520468209" />
     <state x="339" y="161" key="Vcs.Push.Dialog.v2" timestamp="1585520931512">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="339" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1585520931512" />
-    <state x="432" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1585520395240">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585531829438">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="384" y="197" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585531829438" />
     <state x="432" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585520395240" />
   </component>
 </project>
